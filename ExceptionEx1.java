@@ -1,4 +1,4 @@
-package session5;
+package Session6;
 
 public class ExceptionEx1 {
 	
